@@ -33,3 +33,4 @@
 26.	https://github.com/hankil2401/2021-1_OSSL_Final_Project_22000436.git	(Video: https://youtu.be/HOkJ6HdyGHg)
 27.	https://github.com/22000487zixxin/OSS_Final_Project	(Video: https://youtu.be/1MT38LY9YAM)
 28.	https://github.com/MinjooShin/OSS_Project.git (Video: https://youtu.be/iLeGwu1Ywfs)
+29.	https://github.com/Jaehyeok0322/2021-1-OSS_Final (Video: https://youtu.be/MJ0J9v9EdiI)
